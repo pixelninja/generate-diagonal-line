@@ -25,3 +25,5 @@ $(window).on('resize', () => {
 	}, 100));
 });
 ````
+
+**Note: this has been modified from a project to work 'out of the box' but hasn't been tested.**
